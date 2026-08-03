@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Vortex DSE — Deterministic Consensus at the Physical Lower Bound"
+message: Please cite this work using these metadata.
+type: software
+authors:
+  - given-names: Vasilis
+    family-names: Nasopoulos
+abstract: >-
+  Whitepaper describing Vortex DSE, a distributed consensus protocol reaching finality without leader election, voting or gossip, operating at the physical lower bound of two round-trip times.
+repository-code: "https://github.com/vasilisnasopoulos-stack/vortex-dse-whitepaper"
+url: "https://vasilisnasopoulos-stack.github.io"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - TLA+
+  - TLAPS
+  - formal methods
+  - distributed consensus
+  - model checking
