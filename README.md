@@ -11,7 +11,7 @@ Vortex DSE (Deterministic Slot Engine) is a distributed consensus protocol that 
 No setup. No dependencies (except Python 3.11+). Just clone and run:
 
 ```bash
-git clone https://github.com/vasilisnasopoulos-stack/vortex-dse-whitepaper.git
+git clone https://github.com/vasilisnasopoulos/vortex-dse-whitepaper.git
 cd vortex-dse-whitepaper
 pip install -r demo/requirements.txt
 python demo/vortex_demo.py
@@ -144,9 +144,9 @@ python demo/before_after/before_after_demo.py
 
 Public TLA+ formal specifications (machine-checked, no errors):
 
-- [vortex-dse-cslot-spec](https://github.com/vasilisnasopoulos-stack/vortex-dse-cslot-spec) — TLA+ spec + reference implementation
-- [vortex-dse-cslot-proofs](https://github.com/vasilisnasopoulos-stack/vortex-dse-cslot-proofs) — TLAPS machine-checked safety proofs
-- [vortex-merkle-agreement](https://github.com/vasilisnasopoulos-stack/vortex-merkle-agreement) — per-slot Merkle agreement spec
+- [vortex-dse-cslot-spec](https://github.com/vasilisnasopoulos/vortex-dse-cslot-spec) — TLA+ spec + reference implementation
+- [vortex-dse-cslot-proofs](https://github.com/vasilisnasopoulos/vortex-dse-cslot-proofs) — TLAPS machine-checked safety proofs
+- [vortex-merkle-agreement](https://github.com/vasilisnasopoulos/vortex-merkle-agreement) — per-slot Merkle agreement spec
 
 ---
 

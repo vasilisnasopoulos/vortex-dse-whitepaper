@@ -7,8 +7,8 @@ authors:
     family-names: Nasopoulos
 abstract: >-
   Whitepaper describing Vortex DSE, a distributed consensus protocol reaching finality without leader election, voting or gossip, operating at the physical lower bound of two round-trip times.
-repository-code: "https://github.com/vasilisnasopoulos-stack/vortex-dse-whitepaper"
-url: "https://vasilisnasopoulos-stack.github.io"
+repository-code: "https://github.com/vasilisnasopoulos/vortex-dse-whitepaper"
+url: "https://vasilisnasopoulos.github.io"
 license: CC-BY-NC-ND-4.0
 keywords:
   - TLA+

@@ -239,4 +239,4 @@ opens a new design space for high-throughput, leaderless distributed systems.
 
 *IP registered and timestamped. The engine and the underlying mathematical
 derivations remain proprietary. TLA+ specifications are available at
-github.com/vasilisnasopoulos-stack.*
+github.com/vasilisnasopoulos.*

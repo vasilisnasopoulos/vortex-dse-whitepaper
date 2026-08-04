@@ -24,7 +24,7 @@ receipt — typically in well under a second, across continents, with:
   round count.
 - **Formally verified core** — TLA+/TLC/Apalache/TLAPS, and now Lean4 for
   the agreement-extension layer. See the [whitepaper](vortex_dse_whitepaper_en.md)
-  and [proof repos](https://github.com/vasilisnasopoulos-stack).
+  and [proof repos](https://github.com/vasilisnasopoulos).
 
 ## Scope of this beta
 
