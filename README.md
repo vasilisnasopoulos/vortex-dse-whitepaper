@@ -1,3 +1,11 @@
+> **⚠️ Superseded (October 2026).** This paper's central latency claim does not hold as written.
+> τ = 2×RTT was *consistent* with four measurements (converged at 500 ms, failed at 300 ms), but that
+> does not establish the coefficient, and the second round trip is this protocol's own loss recovery,
+> not physics. "No protocol can do better" is withdrawn.
+> The current result is [**where-coordination-goes**](https://github.com/vasilisnasopoulos/where-coordination-goes):
+> the only coordination a decision needs is agreement on silence, exactly τ of it, machine-checked with TLAPS.
+> This repository is kept unchanged for the record.
+
 # Vortex DSE — Whitepaper
 
 **Deterministic Consensus at the Physical Lower Bound**
